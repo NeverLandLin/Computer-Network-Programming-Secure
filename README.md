@@ -2,7 +2,8 @@
 Socket Programming with Openssl
 
 ## 110-1 Computer Network Programming Assignment - Micro Transfer Payment System
-
+## Demo
+![image](https://github.com/NeverLandLin/Computer-Network-Programming-Secure/blob/main/demo.gif)
 
 b08611032 生機三 林毓翔
 ## 執行環境
