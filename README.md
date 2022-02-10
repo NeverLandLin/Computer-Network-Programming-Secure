@@ -4,11 +4,6 @@ Socket Programming with Openssl
 ## 110-1 Computer Network Programming Assignment - Micro Transfer Payment System
 
 
----
-tags: Computer Network
----
-# doc3
-
 b08611032 生機三 林毓翔
 ## 執行環境
 `C++ 11`
